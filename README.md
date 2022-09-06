@@ -1,8 +1,8 @@
-### Olá, eu sou o Lucas Diniz 👋
+### Olá, eu sou o Lucas Diniz Almeida 👋
 
 
 
-- 🔭 Sou programador front-end web e mobile Júnior.
+- 🔭 Sou programador front-end e mobile Júnior.
 - 🌱 Especialidades em React, React Native, Typescript, Next.Js, Sass, tailwind css, chakra Ui e também Node.Js, 
 
 <div align="center">
