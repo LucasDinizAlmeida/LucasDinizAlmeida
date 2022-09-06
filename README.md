@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Sou programador front-end Júnior
-- 🌱 Estudando Typescript, Next.Js e também Node.Js, 
+- 🔭 Sou programador front-end web e mobile Júnior.
+- 🌱 Especialidades em React, React Native, Typescript, Next.Js, Sass, tailwind css, chakra Ui e também Node.Js, 
 
 <div align="center">
   <a href="https://github.com/lucasdinizalmeida">
