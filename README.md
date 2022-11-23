@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Sou programador front-end e mobile Júnior.
+- 🔭 Sou programador Full-Stack.
 - 🌱 Especialidades em React, React Native, Typescript, Next.Js, Sass, tailwind css, chakra Ui e também Node.Js, 
 
 <div align="center">
